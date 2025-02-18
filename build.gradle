@@ -51,4 +51,3 @@ generateJava {
 	packageName = 'com.engagehub.api.codegen'
 	generateClient = true
 }
-
